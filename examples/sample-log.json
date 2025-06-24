@@ -1,0 +1,17 @@
+[
+  {
+    "EventID": 4624,
+    "SourceName": "Microsoft-Windows-Security-Auditing",
+    "Message": "An account was successfully logged on."
+  },
+  {
+    "EventID": 4634,
+    "SourceName": "Microsoft-Windows-Security-Auditing",
+    "Message": "An account was logged off."
+  },
+  {
+    "EventID": 4625,
+    "SourceName": "Microsoft-Windows-Security-Auditing",
+    "Message": "An account failed to log on."
+  }
+]
